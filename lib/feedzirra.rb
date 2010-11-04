@@ -6,6 +6,7 @@ require 'sax-machine'
 require 'loofah'
 require 'uri'
 
+gem 'activesupport', '=2.3.5'
 require 'active_support/version'
 require 'active_support/basic_object'
 require 'active_support/core_ext/module'
